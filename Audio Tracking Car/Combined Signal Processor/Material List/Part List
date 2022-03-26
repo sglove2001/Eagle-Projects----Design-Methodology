@@ -1,0 +1,45 @@
+Partlist
+
+Exported from Mic to Pi Entire design.sch at 3/26/2022 4:59 PM
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Assembly variant: 
+
+Part     Value             Device            Package                   Library     Sheet
+
+CY1      1 uF              CYYC7B5           YC7B5                     rcl         1
+CY2      1 uF              CYYC7B5           YC7B5                     rcl         1
+CY3      10 uF             CYYC7B5           YC7B5                     rcl         1
+CY4      1 uF              CYYC7B5           YC7B5                     rcl         1
+CY5      1 nF              CYYC7B5           YC7B5                     rcl         1
+CY6      1 uF              CYYC7B5           YC7B5                     rcl         1
+CY7      1 nF              CYYC7B5           YC7B5                     rcl         1
+D1       1N4004            1N4004            DO41-10                   diode       1
+IC1      74HC153N          74HC153N          DIL16                     74xx-eu     1
+MIC                        JP2W              JP2W                      jumper      1
+R1       800               R-US_0204/7       0204/7                    rcl         1
+R2       69                R-US_0204/7       0204/7                    rcl         1
+R3       1600              R-US_0204/7       0204/7                    rcl         1
+R4       1600              R-US_0204/7       0204/7                    rcl         1
+R5       1.5k              R-US_0204/7       0204/7                    rcl         1
+R6       15k               R-US_0204/7       0204/7                    rcl         1
+R7       50                R-US_0204/7       0204/7                    rcl         1
+R8       1k                R-US_0204/7       0204/7                    rcl         1
+R9       1k                R-US_0207/2V      0207/2V                   rcl         1
+R10      1k                R-US_0207/2V      0207/2V                   rcl         1
+R11      1k                R-US_0207/2V      0207/2V                   rcl         1
+R12      1k                R-US_0207/2V      0207/2V                   rcl         1
+R13      800               R-US_0204/7       0204/7                    rcl         1
+R14      800k              R-US_0204/7       0204/7                    rcl         1
+R15      8                 R-US_0204/7       0204/7                    rcl         1
+R16      800               R-US_0204/7       0204/7                    rcl         1
+R17      400               R-US_0204/7       0204/7                    rcl         1
+R18      400k              R-US_0204/7       0204/7                    rcl         1
+R19      1k                R-US_0204/7       0204/7                    rcl         1
+R20      1k                R-US_0204/7       0204/7                    rcl         1
+R21      800k              R-US_0204/7       0204/7                    rcl         1
+R22      500               R-US_0204/7       0204/7                    rcl         1
+U$1      RASPBERRY-PI_REV1 RASPBERRY-PI_REV1 RASPBERRY-PI_REV1         RaspberryPi 1
+U1       LM339AN           LM339AN           PDIP14_646-06_ONS         LM339AN     1
+U2       TL084CN           TL084CN           DIP794W45P254L1969H508Q14 TL084CN     1
