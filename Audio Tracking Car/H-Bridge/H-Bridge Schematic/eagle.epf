@@ -265,11 +265,6 @@ UsedLibraryUrn="urn:adsk.eagle:library:196"
 UsedLibraryUrn="urn:adsk.eagle:library:197"
 UsedLibraryUrn="urn:adsk.eagle:library:198"
 UsedLibraryUrn="urn:adsk.eagle:library:199"
-UsedLibrary="C:/Users/snake/Documents/EAGLE/libraries/LM339AN.lbr"
-UsedLibrary="C:/Users/snake/Documents/EAGLE/libraries/rpi-header.lbr"
-UsedLibrary="C:/Users/snake/Documents/Eagle Library Design Downloads/SN754410NE.lbr"
-UsedLibrary="C:/Users/snake/Documents/Eagle Library Design Downloads/TL084CN.lbr"
-UsedLibrary="C:/Users/snake/Documents/Eagle Library Design Downloads/RaspberryPi.lbr"
 
 [Win_1]
 Type="Board Editor"
@@ -366,7 +361,7 @@ Type="Control Panel"
 Number=0
 
 [Desktop]
-Screen="1920 1080"
+Screen="960 540"
 Window="Win_1"
 Window="Win_2"
 Window="Win_3"
