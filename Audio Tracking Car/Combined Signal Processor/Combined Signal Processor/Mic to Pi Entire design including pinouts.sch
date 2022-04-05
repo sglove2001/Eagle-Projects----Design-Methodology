@@ -7059,7 +7059,6 @@ general purpose rectifier, 1 A</description>
 <part name="P+7" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="+5V" device=""/>
 <part name="SUPPLY6" library="supply2" library_urn="urn:adsk.eagle:library:372" deviceset="GND" device=""/>
 <part name="U.S." library="pinhead" library_urn="urn:adsk.eagle:library:325" deviceset="PINHD-1X5" device="5X2MM" package3d_urn="urn:adsk.eagle:package:22466/2"/>
-<part name="JP2" library="pinhead" library_urn="urn:adsk.eagle:library:325" deviceset="PINHD-1X3" device="" package3d_urn="urn:adsk.eagle:package:22458/2"/>
 <part name="5VPOWER" library="pinhead" library_urn="urn:adsk.eagle:library:325" deviceset="PINHD-1X2" device="" package3d_urn="urn:adsk.eagle:package:22435/2"/>
 <part name="P+3" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="+5V" device=""/>
 <part name="SUPPLY9" library="supply2" library_urn="urn:adsk.eagle:library:372" deviceset="GND" device=""/>
@@ -7389,10 +7388,6 @@ GND</text>
 <instance part="U.S." gate="A" x="86.36" y="340.36" smashed="yes">
 <attribute name="NAME" x="80.01" y="348.615" size="1.778" layer="95"/>
 <attribute name="VALUE" x="80.01" y="330.2" size="1.778" layer="96"/>
-</instance>
-<instance part="JP2" gate="A" x="93.98" y="322.58" smashed="yes">
-<attribute name="NAME" x="87.63" y="328.295" size="1.778" layer="95"/>
-<attribute name="VALUE" x="87.63" y="314.96" size="1.778" layer="96"/>
 </instance>
 <instance part="5VPOWER" gate="G$1" x="58.42" y="337.82" smashed="yes">
 <attribute name="NAME" x="52.07" y="343.535" size="1.778" layer="95"/>
